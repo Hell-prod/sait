@@ -1,0 +1,6 @@
+{
+  "hosting": {
+    "site": "repetitiond",
+    "public": "index.html"
+  }
+}
