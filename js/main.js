@@ -1,8 +1,8 @@
-let newDoc = window.open('./index.html');
 
 
-let btnStudent = newDoc.getElementById('btn');
+
+let btnStudent = document.getElementById('btn');
 
 btnStudent.onclick = function () {
-    alert('fdfsd')
+    alert('sdsd')
 }
