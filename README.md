@@ -6,7 +6,8 @@
 - ДЗ обработчик
 
 Над проектом работали:
-@polinashneider
-@lyzhenkoff
+[Polina Shneider](https://github.com/PolinaShneider)
+[Kirill Lyzhenkoff](https://github.com/Lyzhenkoff)
+[Vlad Qeen](https://github.com/Qwen-mamkincoder)
 
 
