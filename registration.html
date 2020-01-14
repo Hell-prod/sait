@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <title>Rep</title>
     <link rel="stylesheet" href ='css/reg.css'>
+    <script src="https://cdn.firebase.com/libs/firebaseui/3.5.2/firebaseui.js"></script>
+    <link type="text/css" rel="stylesheet" href="https://cdn.firebase.com/libs/firebaseui/3.5.2/firebaseui.css" />
 </head>
 <body>
 <form action="action_page.php">
@@ -23,6 +25,11 @@
         <button type="submit" class="registerbtn">Register</button>
     </div>
 </form>
+<script>
+    var firebase = require('firebase');
+    var firebaseui = require('firebaseui');
+    var ui = new firebaseui.auth.AuthUI(firebase.auth());
+</script>
 <!-- The core Firebase JS SDK is always required and must be listed first -->
 <script src="/__/firebase/7.6.2/firebase-app.js"></script>
 
