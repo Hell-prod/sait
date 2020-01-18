@@ -6,7 +6,7 @@
 - ДЗ обработчик
 
 ## Стек
-HTML,CSS,JS,FIREBASE UI
+HTML,CSS,JS,FIREBASE UI,REACT
 
 ## Над проектом работали:
 
