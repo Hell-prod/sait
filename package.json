@@ -1,0 +1,19 @@
+{
+  "name": "sait",
+  "version": "1.0.0",
+  "description": "## План: - создать регистрацию  - редактор тестов - ДЗ обработчик",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hell-prod/sait.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hell-prod/sait/issues"
+  },
+  "homepage": "https://github.com/Hell-prod/sait#readme"
+}
